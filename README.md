@@ -21,11 +21,12 @@
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
     </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
     <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>SAP ABAP</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/09/what-is-SAP-ABAP-Programming.jpg">
+      </td>
       <td width="25%" align="center">
         <span><strong>Python</strong>
         </span><br><br><br>
@@ -38,11 +39,6 @@
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>SAP ABAP</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/09/what-is-SAP-ABAP-Programming.jpg">
       </td>
     </tr>
   </tbody>
