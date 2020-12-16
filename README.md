@@ -2,8 +2,6 @@
 
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [CJ!](https://github.com/cjdcelimen) !!
 
-<hr/>
-
 <table>
   <tbody>
     <tr valign="top">
@@ -29,7 +27,4 @@
 </table>
 <hr>
 
-<h3>Thanks for Stopping by!! 😊</h3>
-
----
 ⭐️ From [CJ Celimen](https://github.com/cjdcelimen) 
