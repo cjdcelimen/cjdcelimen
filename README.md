@@ -1,5 +1,7 @@
 ### Hello Reader!
 
+## Experienced Technologies
+
 <table>
   <tbody>
     <tr valign="top">
@@ -37,7 +39,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
+        <span><strong>MySQL</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
     </tr>
