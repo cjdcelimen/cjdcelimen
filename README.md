@@ -13,6 +13,10 @@
         <span><strong>Laravel</strong></span><br><br><br>
         <img height="64px" src="https://laravel.com/img/logomark.min.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Materialize CSS</strong></span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7wdKXOwKuZ5Nk7sPed0pyqArpHPzps3F-A&usqp=CAU">
+      </td>
     </tr>
   </tbody>
 </table>
