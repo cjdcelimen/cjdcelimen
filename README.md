@@ -1,26 +1,5 @@
 # Hello Reader!
 
-## Discovering
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>PHP</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Laravel</strong></span><br><br><br>
-        <img height="64px" src="https://laravel.com/img/logomark.min.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Materialize CSS</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7wdKXOwKuZ5Nk7sPed0pyqArpHPzps3F-A&usqp=CAU">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## Experienced Technologies
 
 <table>
